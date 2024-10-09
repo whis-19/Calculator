@@ -7,7 +7,7 @@ public class CalDriver {
         CalModel model = new CalModel();
         CalControl controller = new CalControl(view, model);
         
-        
+        //test
         view.setVisible(true); 
     }
 }
